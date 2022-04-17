@@ -1,2 +1,2 @@
 # canary.js
-The official JavaScript library for Canary Bot API.
+The official JavaScript library for the Canary Bot API.
