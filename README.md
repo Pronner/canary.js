@@ -6,7 +6,7 @@ canary.js is an upcoming flexible [Node.js](https://nodejs.org) module that allo
 
 ## Suggested Installation
 
-**Node.js 16.9.0 and above is high suggested.**
+**Node.js 16.9.0 and above is highly suggested.**
 
 ## Expected Release
 
